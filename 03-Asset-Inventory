@@ -1,1 +1,34 @@
+# 03 - Asset Inventory
+
+## Purpose
+
+The Asset Inventory identifies information assets within the scope of the Information Security Management System (ISMS).
+
+## Supporting Documentation
+
+* Asset-Register.xlsx
+
+## Asset Categories
+
+* Hardware
+* Software
+* Cloud Services
+* Databases
+* Documentation
+* Network Infrastructure
+
+## Classification Levels
+
+* Public
+* Internal
+* Confidential
+* Restricted
+
+## Ownership
+
+Each asset is assigned an owner responsible for maintaining appropriate security controls and ensuring compliance with organizational policies.
+
+## Review Frequency
+
+Annually or upon significant business or technology changes.
 
