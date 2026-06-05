@@ -1,16 +1,16 @@
-01 - ISMS Scope
+# 01 - ISMS Scope
 
-Purpose
+## Purpose
 
 The purpose of this document is to define the scope of the Information Security Management System (ISMS) for the Atlanta Falcons ISO 27001:2022 Risk Assessment Case Study.
 
-Organization
+## Organization
 
 Atlanta Falcons (Case Study)
 
 Industry: Professional Sports & Entertainment
 
-Scope Statement
+## Scope Statement
 
 The ISMS applies to information assets, personnel, business processes, and technology systems supporting:
 
@@ -22,7 +22,7 @@ The ISMS applies to information assets, personnel, business processes, and techn
 * Vendor Management
 * Corporate IT Services
 
-Included Assets
+## Included Assets
 
 * Microsoft 365
 * SharePoint
@@ -32,7 +32,7 @@ Included Assets
 * HR Systems
 * Vendor Records
 
-Interested Parties
+## Interested Parties
 
 * Fans
 * Employees
@@ -40,7 +40,7 @@ Interested Parties
 * Executive Management
 * Regulatory Authorities
 
-Exclusions
+## Exclusions
 
 The following are outside the scope of this assessment:
 
