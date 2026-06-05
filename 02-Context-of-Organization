@@ -1,34 +1,121 @@
-# 03 - Asset Inventory
+# 02 - Context of the Organization
 
-## Purpose
+## Document Information
 
-The Asset Inventory identifies information assets within the scope of the Information Security Management System (ISMS).
+Document Title: Context of the Organization
 
-## Supporting Documentation
+Project: ISO 27001:2022 Risk Assessment Case Study
 
-* Asset-Register.xlsx
+Organization: Atlanta Falcons (Educational Case Study)
 
-## Asset Categories
+Version: 1.0
 
-* Hardware
-* Software
-* Cloud Services
-* Databases
-* Documentation
-* Network Infrastructure
+Document Owner: Information Security Manager
 
-## Classification Levels
+Review Date: June 2026
 
-* Public
-* Internal
-* Confidential
-* Restricted
+---
 
-## Ownership
+# 1. Purpose
 
-Each asset is assigned an owner responsible for maintaining appropriate security controls and ensuring compliance with organizational policies.
+The purpose of this document is to identify internal and external issues that may affect the organization's ability to achieve its information security objectives.
 
-## Review Frequency
+This assessment supports the establishment, implementation, maintenance, and continual improvement of the Information Security Management System (ISMS) in accordance with ISO 27001:2022.
 
-Annually or upon significant business or technology changes.
+---
 
+# 2. Organizational Environment
+
+The organization operates within the professional sports and entertainment industry and relies heavily on information technology, cloud services, third-party vendors, and digital communication platforms to support business operations.
+
+Information security is essential to maintaining customer trust, protecting sensitive information, supporting business continuity, and complying with legal and regulatory requirements.
+
+---
+
+# 3. Internal Issues
+
+The following internal issues may impact information security performance.
+
+| Internal Issue             | Impact on Information Security                        |
+| -------------------------- | ----------------------------------------------------- |
+| Remote Workforce           | Increased risk of unauthorized access and device loss |
+| Cloud Service Usage        | Dependency on third-party infrastructure              |
+| Employee Turnover          | Access management and offboarding challenges          |
+| Shared Information Systems | Increased risk of unauthorized data access            |
+| Limited Security Resources | Reduced monitoring and response capabilities          |
+| Business Growth            | Expansion of attack surface                           |
+| Legacy Processes           | Potential control weaknesses                          |
+| Human Error                | Risk of accidental data exposure                      |
+
+---
+
+# 4. External Issues
+
+The following external issues may impact information security performance.
+
+| External Issue             | Impact on Information Security                               |
+| -------------------------- | ------------------------------------------------------------ |
+| Cyber Threat Landscape     | Increased risk of phishing, ransomware, and credential theft |
+| Regulatory Requirements    | Compliance obligations for data protection                   |
+| Third-Party Suppliers      | Supply chain security risks                                  |
+| Reputation Risk            | Potential loss of customer confidence following incidents    |
+| Technology Changes         | Emerging vulnerabilities and security requirements           |
+| Economic Conditions        | Potential reduction in security investments                  |
+| Industry Competition       | Increased reliance on digital services                       |
+| Social Engineering Threats | Targeted attacks against employees                           |
+
+---
+
+# 5. Interested Parties
+
+The organization has identified the following interested parties and their information security requirements.
+
+| Interested Party       | Requirement                                    |
+| ---------------------- | ---------------------------------------------- |
+| Fans                   | Protection of personal information and privacy |
+| Employees              | Secure systems and reliable access             |
+| Executive Management   | Risk reduction and business continuity         |
+| Vendors                | Secure exchange of information                 |
+| Business Partners      | Protection of shared business data             |
+| Regulatory Authorities | Compliance with applicable regulations         |
+| IT Department          | Effective security controls and monitoring     |
+
+---
+
+# 6. Needs and Expectations of Interested Parties
+
+The organization shall monitor and review the needs and expectations of interested parties to ensure that information security risks are appropriately managed.
+
+Examples include:
+
+* Protection of personal information
+* Confidential handling of employee records
+* Availability of business systems
+* Protection of intellectual property
+* Secure vendor relationships
+* Regulatory compliance
+
+---
+
+# 7. Information Security Objectives Supported
+
+This assessment supports the following objectives:
+
+* Protect the confidentiality of sensitive information.
+* Maintain the integrity of organizational data.
+* Ensure the availability of critical business systems.
+* Reduce information security risk.
+* Support compliance with applicable requirements.
+* Promote continual improvement of information security practices.
+
+---
+
+# 8. Review Requirements
+
+This document shall be reviewed annually or whenever significant changes occur to business operations, technology infrastructure, legal requirements, or organizational objectives.
+
+Approved By:
+
+Information Security Manager (Case Study)
+
+Date: June 2026
