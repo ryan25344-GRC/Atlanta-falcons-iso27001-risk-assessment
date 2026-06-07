@@ -1,12 +1,34 @@
-# 04 - Threat Register
+# 04 – Threat Register
 
 ## Purpose
 
-This section documents cybersecurity threats that could affect organizational information assets.
+This register identifies cybersecurity threats that could negatively impact information assets within the ISMS scope.
 
-## File
+## Method Used
 
-- Threat-Register.xlsx
+Threats were identified through:
+
+- Industry threat intelligence research
+- Analysis of common attacks against sports organizations
+- Review of cloud and remote workforce risks
+- Review of third-party vendor risks
+
+Threat examples include:
+
+- Phishing
+- Ransomware
+- Credential theft
+- Insider threat
+- Vendor compromise
+- Social engineering
+
+## Deliverable
+
+Threat-Register.xlsx
+
+## Outcome
+
+The identified threats were later combined with organizational vulnerabilities and assets to create risk scenarios used in the formal risk assessment.
 
 ## Skills Demonstrated
 
