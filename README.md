@@ -1,36 +1,39 @@
-# ISO 27001:2022 Risk Assessment Case Study
+# Atlanta Falcons ISO 27001:2022 Risk Assessment Case Study
 
-## Atlanta Falcons GRC Portfolio Project
+## Project Overview
 
-### Project Overview
+This project is a fictional ISO 27001:2022 risk assessment case study using the Atlanta Falcons as the example organization.
 
-This project demonstrates the application of ISO 27001:2022 risk management principles through a fictional case study of a professional sports organization.
+The purpose of this project is to demonstrate practical Governance, Risk, and Compliance skills by building a complete risk management lifecycle from ISMS scope through corrective action tracking.
 
-The project includes:
+## Disclaimer
 
-- ISMS Scope Definition
+This project is for educational and portfolio purposes only. It does not represent the actual security posture, systems, or operations of the Atlanta Falcons organization.
+
+## Project Deliverables
+
+- ISMS Scope Document
 - Context of the Organization
-- Asset Inventory
+- Asset Register
 - Threat Register
 - Vulnerability Register
 - Risk Assessment
 - Risk Register
 - Risk Treatment Plan
-- Statement of Applicability (SoA)
-- Internal Audit Documentation
-- Corrective Action Tracking
+- Statement of Applicability
+- Internal Audit Report
+- Corrective Action Log
 
-### Skills Demonstrated
+## Skills Demonstrated
 
 - ISO 27001:2022
-- Governance, Risk & Compliance (GRC)
-- Risk Assessment Methodology
+- Governance, Risk, and Compliance
+- Risk Assessment
+- Risk Treatment
 - Asset Management
-- Security Governance
-- Documentation & Reporting
+- Threat Identification
+- Vulnerability Management
+- Internal Auditing
+- Corrective Action Tracking
 - Microsoft Excel
-- GitHub
-
-### Disclaimer
-
-This is a fictional educational case study created for cybersecurity portfolio purposes and does not represent the actual security posture, controls, or operations of the Atlanta Falcons organization.
+- GitHub Documentation
