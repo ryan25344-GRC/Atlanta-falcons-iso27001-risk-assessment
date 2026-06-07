@@ -37,3 +37,17 @@ This project is for educational and portfolio purposes only. It does not represe
 - Corrective Action Tracking
 - Microsoft Excel
 - GitHub Documentation
+## Lessons Learned
+
+During this project I gained practical experience with:
+
+- ISO 27001:2022 risk assessment methodology
+- Asset inventory development
+- Threat and vulnerability analysis
+- Risk scoring and prioritization
+- Risk treatment planning
+- Statement of Applicability development
+- Internal audit activities
+- Corrective action management
+- Microsoft Excel documentation
+- GitHub project management
