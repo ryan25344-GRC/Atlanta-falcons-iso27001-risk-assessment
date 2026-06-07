@@ -51,3 +51,20 @@ During this project I gained practical experience with:
 - Corrective action management
 - Microsoft Excel documentation
 - GitHub project management
+Assets
+ ↓
+Threats
+ ↓
+Vulnerabilities
+ ↓
+Risk Assessment
+ ↓
+Risk Register
+ ↓
+Treatment Plan
+ ↓
+Statement of Applicability
+ ↓
+Internal Audit
+ ↓
+Corrective Actions
