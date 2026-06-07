@@ -1,0 +1,50 @@
+# Risk Assessment Methodology
+
+## Purpose
+
+This project uses a fictional Atlanta Falcons case study to demonstrate ISO 27001:2022 risk management practices.
+
+## Risk Identification Process
+
+Risks were identified using the following methodology:
+
+Asset + Threat + Vulnerability = Risk Scenario
+
+## Risk Scoring Method
+
+### Likelihood Scale
+
+| Score | Definition |
+|---------|---------|
+| 1 | Rare |
+| 2 | Unlikely |
+| 3 | Possible |
+| 4 | Likely |
+| 5 | Almost Certain |
+
+### Impact Scale
+
+| Score | Definition |
+|---------|---------|
+| 1 | Negligible |
+| 2 | Minor |
+| 3 | Moderate |
+| 4 | Major |
+| 5 | Severe |
+
+## Risk Formula
+
+Risk Score = Likelihood × Impact
+
+## Risk Ratings
+
+| Score Range | Rating |
+|---------|---------|
+| 1-4 | Low |
+| 5-9 | Medium |
+| 10-15 | High |
+| 16-25 | Critical |
+
+## Disclaimer
+
+This project is a fictional educational case study and does not represent the actual security posture of the Atlanta Falcons organization.
