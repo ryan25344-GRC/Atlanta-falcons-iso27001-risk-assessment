@@ -1,1 +1,22 @@
+# 06 - Risk Assessment
 
+## Purpose
+
+This section evaluates risks by combining assets, threats, and vulnerabilities into risk scenarios.
+
+## File
+
+- Risk-Assessment.xlsx
+
+## Methodology
+
+Risk Score = Likelihood x Impact
+
+Risk ratings are categorized as Low, Medium, High, or Critical.
+
+## Skills Demonstrated
+
+- Risk scoring
+- Likelihood and impact analysis
+- Risk prioritization
+- ISO 27001 risk assessment methodology
