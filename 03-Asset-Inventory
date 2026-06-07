@@ -2,33 +2,16 @@
 
 ## Purpose
 
-The Asset Inventory identifies information assets within the scope of the Information Security Management System (ISMS).
+This section identifies and classifies information assets included within the ISO 27001 case study scope.
 
-## Supporting Documentation
+## File
 
-* Asset-Register.xlsx
+- Asset-Register.xlsx
 
-## Asset Categories
+## Skills Demonstrated
 
-* Hardware
-* Software
-* Cloud Services
-* Databases
-* Documentation
-* Network Infrastructure
-
-## Classification Levels
-
-* Public
-* Internal
-* Confidential
-* Restricted
-
-## Ownership
-
-Each asset is assigned an owner responsible for maintaining appropriate security controls and ensuring compliance with organizational policies.
-
-## Review Frequency
-
-Annually or upon significant business or technology changes.
-
+- Asset identification
+- Asset ownership
+- Data classification
+- Criticality rating
+- Excel-based asset tracking
